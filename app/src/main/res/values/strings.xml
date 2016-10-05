@@ -1,0 +1,236 @@
+<resources>
+    <string name="app_name">DoomsDay</string>
+    <string name="home">Home</string>
+    <string name="hint_email">Email Address *</string>
+    <string name="hint_emailLogin">Email Address</string>
+    <string name="hint_passwordLogin">Password</string>
+    <string name="hint_password">Password *</string>
+    <string name="btn_signin">Sign In</string>
+    <string name="txt_forgot_pass">Forgot?</string>
+    <string name="new_here">New here? </string>
+    <string name="signup"><u>Sign Up</u></string>
+    <string name="image">Image Description</string>
+    <string name="check_hint_1">Send Me Newsletters From Wooden Street</string>
+    <string name="name">First name *</string>
+    <string name="mobile">Mobile No. *</string>
+    <string name="cnrfm_pswrd">Confirm Password *</string>
+    <string name="btn_fgpsswrd">Send Password</string>
+    <string name="fg_pswrd_tag">Forgot Your Password?</string>
+    <string name="fg_pswrd_tag_1">Enter the e-mail address associated with your account. Click submit to have your password e-mailed to you.</string>
+    <string name="trending_search">TRENDING SEARCHES</string>
+    <string name="sortby">SORT BY</string>
+    <string name="filter">FILTER</string>
+    <string name="Filter">Filter</string>
+    <string name="filter_options">Filter Options</string>
+    <string name="change_view">Change View</string>
+    <string name="quit">Exit</string>
+    <string name="price_low_High">Price (Low to High)</string>
+    <string name="price_High_Low">Price (High to Low)</string>
+    <string name="latest_product">Latest Products</string>
+    <string name="fastest_shipping">Fastest Shipping</string>
+    <string name="price">Price</string>
+    <string name="apply">Apply</string>
+    <string name="APPLY">APPLY</string>
+    <string name="cancel">Cancel</string>
+    <string name="customize">CUSTOMIZE</string>
+    <string name="buy_now">BUY NOW</string>
+    <string name="check_estimate">Check delivery estimate</string>
+    <string name="hint_pincode">Enter Pincode</string>
+    <string name="product_details">Product Details</string>
+    <string name="care_instructions">Care Instructions</string>
+    <string name="qa_warranty">QA/ Warranty</string>
+    <string name="delivery">Delivery</string>
+    <string name="faq">FAQ</string>
+    <string name="no_review">No reviews</string>
+    <string name="view_more">View more</string>
+    <string name="reviews">Reviews</string>
+    <string name="write_review">Write A Review</string>
+    <string name="appearance">APPEARANCE</string>
+    <string name="quality">QUALITY</string>
+    <string name="message">Message</string>
+    <string name="submit">Submit</string>
+    <string name="hint_name">Name</string>
+    <string name="my_account">My Account</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="change_password">Change Password</string>
+    <string name="address_book">Address Book</string>
+    <string name="news_letter">Newsletter</string>
+    <string name="policies">Policies</string>
+    <string name="logout">Logout</string>
+    <string name="update_password">Update Password</string>
+    <string name="update">UPDATE</string>
+    <string name="success">Success</string>
+    <string name="rewards">Rewards</string>
+    <string name="save">Save</string>
+    <string name="orderid">Order ID :</string>
+    <string name="order_on">Order No. :</string>
+    <string name="customer">Customer :</string>
+    <string name="products">Products :</string>
+    <string name="total">Total :</string>
+    <string name="no_order">No order</string>
+    <string name="order_info">Order Information</string>
+    <string name="order_detail">Order Details</string>
+    <string name="order_date">Date Added :</string>
+    <string name="pay_method">Payment Method :</string>
+    <string name="pay_address">Payment Address</string>
+    <string name="pay_summary">Payment Summary</string>
+    <string name="proceed_pay">PROCEED TO PAYMENT</string>
+    <string name="no_address">No address available</string>
+    <string name="edit_address">Edit Address</string>
+    <string name="first_name">First Name *</string>
+    <string name="last_name">Last Name *</string>
+    <string name="address">Address</string>
+    <string name="addressCheckout">Address *</string>
+    <string name="city">City *</string>
+    <string name="pincode">Pincode *</string>
+    <string name="check_hint_2">Set as default.</string>
+    <string name="edit_account">Edit Account</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="do_hve_coupon">Do you have a coupon</string>
+    <string name="check_hint_3">Use wallet</string>
+    <string name="hint_couponcode">Enter coupon code</string>
+    <string name="checkout">Checkout</string>
+    <string name="review_order">Review Your Order</string>
+    <string name="pay_option">Payment Option</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="thankyouNote">Your Order Has Been Completed Successfully</string>
+    <string name="orderNumber">Order Number</string>
+    <string name="purchaseDate">Purchase Date</string>
+    <string name="billingEmail">Billing Email</string>
+    <string name="paymentMethod">Payment Method</string>
+    <string name="custom_product">Customize Product</string>
+    <string name="custom_funiture">Custom Furniture</string>
+    <string name="Offer">Offers</string>
+    <string name="Offer_price">Offer Price:</string>
+    <string name="DEAL_OF_THE_WEEK">DEAL OF THE WEEK</string>
+    <string name="Looks">Looks</string>
+    <string name="Looks_details">Look Details</string>
+    <string name="categories">Categories</string>
+    <string name="reset">RESET</string>
+    <string name="sheesham">SHEESHAM</string>
+    <string name="mango">MANGO</string>
+    <string name="other">OTHER</string>
+    <string name="teak">TEAK</string>
+    <string name="mahagony">MAHAGONY</string>
+    <string name="honey">HONEY</string>
+    <string name="walunt">WALNUT</string>
+
+    <string name="select_polish">Select Polish</string>
+    <string name="choose_fabric">Choose Fabric</string>
+    <string name="none">NONE</string>
+    <string name="phone_number">Phone Number *</string>
+
+    <string name="after_option_1">My Account</string>
+    <string name="after_option_2">My Order</string>
+    <string name="after_option_3">Track Your Order</string>
+    <string name="after_option_4">WS Wallet</string>
+    <string name="after_option_8">Sign Out</string>
+
+    <string name="before_option_1">Login</string>
+    <string name="before_option_2">FAQ</string>
+    <string name="before_option_3">Rate the App</string>
+    <string name="before_option_5">About Us</string>
+    <string name="before_option_6">Feedback</string>
+
+
+    <!-- Rate it Dialog -->
+    <string name="rta_dialog_title">Rate this app</string>
+    <string name="rta_dialog_message">If you enjoy using this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thank you for your support!</string>
+    <string name="rta_dialog_ok">Rate now</string>
+    <string name="rta_dialog_cancel">Later</string>
+    <string name="rta_dialog_no">No, thanks</string>
+
+    <string name="facebook_app_id">841486749290350</string>
+    <string name="fb_login_protocol_scheme">fb841486749290350</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+
+    <!--GCM Strings-->
+
+    <!-- Checkout Style -->
+    <string name="review">Review</string>
+    <string name="payment">Payment</string>
+    <string name="desgnCustmPiece">Design Your Custom Piece of Furniture.</string>
+    <string name="para_custompage">Transforming custom ideas to reality with a unique blend of styles.</string>
+    <string name="otherSpecification">Dimensions, measurements, shape, sizing info</string>
+    <string name="priceRange">Price Range</string>
+    <string name="attachPhotos">Attach Photos or Sketches +</string>
+    <string name="custom_submit_btn">SUBMIT YOUR REQUEST</string>
+
+    <!--select images strings-->
+
+    <!--About WoodenStreet -->
+    <string name="about_woodenstreet">About WoodenStreet</string>
+    <string name="we_design">WE DESIGN.</string>
+    <string name="meet_our_expert">Meet Our Experts</string>
+    <string name="custom_furniture">\"CUSTOM FURNITURE \n BY EXPERT ARTISANS\"</string>
+
+    <!--App intro screens-->
+    <string name="slide_1_desc">India\'s 1st Custom Furniture\nOnline Store</string>
+    <string name="slide_2_title">Custom Furniture</string>
+    <string name="slide_2_desc">Woodenstreet make custom furniture\nexclusively for you &amp; your dreams</string>
+    <string name="slide_3_title">Wood</string>
+    <string name="slide_3_desc">Because Solid Wood Furniture is the\nRight Fit for Your Home</string>
+    <string name="slide_4_title">Product for every need</string>
+    <string name="slide_4_desc">No corner left blank by our craftsmen\n to decorate your home</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">GOT IT</string>
+
+    <!--Guest Track Order popup -->
+    <string name="order_id">Enter your Order ID</string>
+    <string name="email_id">Enter your Email ID or Phone no.</string>
+    <string name="or">OR</string>
+    <string name="Login">Login</string>
+    <string name="track_order">&amp; Track Order</string>
+    <string name="track_now">TRACK NOW</string>
+
+    <string name="emi_details">EMI Details</string>
+    <string name="CHECKOUT">CHECKOUT</string>
+    <string name="SHOP_MORE">SHOP MORE</string>
+
+    <!--Notification-->
+    <string name="notifications">Notification</string>
+
+
+    <!--Feed Back-->
+    <string name="feedback">Feedback</string>
+    <string name="great">Your feedback helps us understand what we do well \nand where we can improve.</string>
+    <string name="experience">How was your experience?</string>
+    <string name="fd_name">Name *</string>
+    <string name="fd_message">Message</string>
+    <string name="fd_email">Email (Optional)</string>
+    <string name="fd_phone">Phone Number*</string>
+    <string name="full_name">Full Name</string>
+    <string name="city1">City</string>
+    <string name="emi_start_from">EMI Start From</string>
+
+    <!--BedroomCollection-->
+
+    <string name="bedroom_collection">Bedroom Collection</string>
+    <string name="collection">-Collection</string>
+    <string name="_8_more">+ 8 More</string>
+    <string name="banner">banner</string>
+    <string name="conversion_strip">conversion strip</string>
+    <string name="more">+%d More</string>
+    <string name="less">Less</string>
+    <string name="view_all">VIEW ALL</string>
+    <string name="recently_viewed">RECENTLY VIEWED</string>
+    <string name="available_finish">Available Finish :</string>
+    <string name="offer_price">Offer Price -</string>
+    <string name="underline">underline</string>
+    <string name="policies_">POLICIES</string>
+    <string name="custom_furniture_">CUSTOM FURNITURE</string>
+    <string name="looks">LOOKS</string>
+    <string name="email">EMAIL</string>
+    <string name="ok">OK</string>
+    <string name="hot_selling_category">Hot Selling Categories</string>
+    <string name="no_internet_connection_found">No Internet Connection Found !</string>
+    <string name="try_again">Try Again</string>
+    <string name="chat_now">Chat Now</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="select_wood">Select Wood</string>
+    <string name="product_image">Product Image</string>
+    <string name="fabric_image">fabric image</string>
+    <string name="close_icon">close icon</string>
+</resources>
